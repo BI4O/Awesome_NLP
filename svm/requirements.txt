@@ -1,0 +1,9 @@
+jieba
+numpy
+scipy
+sklearn
+joblib
+xlrd
+xlsxwriter
+matplotlib
+tqdm
